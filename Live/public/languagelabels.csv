@@ -1,0 +1,614 @@
+title,code,type,en,fr,status
+Request Ride,LBL_REQUEST_RIDE,consumer,Request Ride,Demande tour,Active
+Request a ride get picked up by a nearby community admin.,LBL_REQUEST_RIDE_DESC,consumer,Request a ride get picked up by a nearby community admin.,Demander un get tour ramassé par un conducteur communautaire à proximité.,Active
+Confirm Your Admin,LBL_CONFIRM_YOUR_DRIVER,consumer,Confirm Your Admin,Confirmez votre pilote,Active
+"Huge admins network helps you find comfortable, safe and cheap ride.",LBL_CONFIRM_YOUR_DRIVER_DESC,consumer,"Huge admins network helps you find comfortable, safe and cheap ride.","pilotes réseau énormes Contribue vous trouvez conduite confortable, sûr et pas cher.",Active
+Track your Ride,LBL_TRACK_YOUR_RIDE,consumer,Track your Ride,Suivre bazou,Active
+Know your admin in advance and be able to view current location in real time on the map.,LBL_TRACK_YOUR_RIDE_DESC,consumer,Know your admin in advance and be able to view current location in real time on the map.,Apprenez à connaître votre pilote à l'avance et être en mesure de visualiser l'emplacement actuel en temps réel sur la carte.,Active
+Skip,LBL_SKIP,consumer,Skip,Sauter,Active
+Get Started,LBL_GET_STARTED,consumer,Get Started,Commencer,Active
+Next,LBL_NEXT,consumer,Next,Prochain,Active
+"Fantastic, are you ready to get Fetched?",LBL_FANTASTIC_ARE_YOU_READY_TO_GET_FETCHED,consumer,"Fantastic, are you ready to get Fetched?","Fantastique, êtes-vous prêt à vous Tirée par les cheveux?",Active
+Please enter your number,LBL_PLEASE_ENTER_YOUR_NUMBER,consumer,Please enter your number,S'il vous plaît entrer votre numéro,Active
+Your number,LBL_YOUR_NUMBER,consumer,Your number,ton numéro,Active
+Done,LBL_DONE,consumer,Done,terminé,Active
+You don't have an account ?,LBL_YOU_DONT_HAVE_AN_ACCOUNT,consumer,You don't have an account ?,Vous n'avez un compte?,Active
+Signup,LBL_SIGNUP,consumer,Signup,S'inscrire,Active
+Create an Account,LBL_CREATE_AN_ACCOUNT,consumer,Create an Account,Créer un compte,Active
+*No one has accept your request please try again,LBL_NO_ONE_HAS_ACCEPT_YOUR_REQUEST_PLEASE_TRY_AGAIN,consumer,No admin has accepted your request. Please try again later,Aucun pilote a accepté votre demande. Veuillez réessayer plus tard,Active
+Last Name,LBL_LAST_NAME,consumer,Last Name,Nom de famille,Active
+Your Email Address,LBL_YOUR_EMAIL_ADDRESS,consumer,Your Email Address,Votre adresse email,Active
+Register,LBL_REGISTER,consumer,Register,S'inscrire,Active
+Verify Mobile Number,LBL_VERIFY_MOBILE_NUMBER,consumer,Verify Mobile Number,Vérifier mobile Nombre,Active
+OTP has been sent to your,LBL_OTP_HAS_BEEN_SENT_TO_YOUR,consumer,OTP has been sent to your,Bureau du Procureur a-été envoyé à votre,Active
+please enter it.,LBL_PLEASE_ENTER_IT,consumer,Please enter it.,S'il vous plaît entrer.,Active
+Didn’t receive OTP?,LBL_DIDNT_RECEIVE_OTP,consumer,Didn’t receive OTP?,N'a pas reçu du Bureau du Procureur?,Active
+Resend code in,LBL_RESEND_CODE_IN,consumer,Resend OTP in,Bureau du Procureur en Renvoyer,Active
+Resend Code,LBL_RESEND_CODE,consumer,Resend OTP,Bureau du Procureur Renvoyer,Active
+Enter OTP,LBL_ENTER_OTP,consumer,Enter OTP,Entrez OTP,Active
+Enter 4 Digit OTP,LBL_ENTER_4_DIGIT_OTP,consumer,Enter 4 Digit OTP,Entrez 4 chiffres OTP,Active
+Please enter mobile number,LBL_PLEASE_ENTER_MOBILE_NUMBER,consumer,Please enter mobile number,S'il vous plaît entrer le numéro mobile,Active
+Please enter valid mobile number,LBL_PLEASE_ENTER_VALID_MOBILE_NUMBER,consumer,Please enter valid mobile number,S'il vous plaît entrer le numéro de téléphone portable valide,Active
+Please enter first name,LBL_PLEASE_ENTER_FIRST_NAME,consumer,Please enter first name,S'il vous plaît entrer le prénom,Active
+Please enter last name,LBL_PLEASE_ENTER_LAST_NAME,consumer,Please enter last name,S'il vous plaît entrer nom,Active
+Please enter email ID,LBL_PLEASE_ENTER_EMAIL_ID,consumer,Please enter email ID,S'il vous plaît entrer email ID,Active
+Please enter valid email ID,LBL_PLEASE_ENTER_VALID_EMAIL_ID,consumer,Please enter valid email ID,S'il vous plaît entrer l'ID email valide,Active
+Your pickup location?,LBL_YOUR_PICKUP_LOCATION,consumer,Your pickup location?,Votre emplacement pick-up?,Active
+Your drop off location?,LBL_YOUR_DROP_OFF_LOCATION,consumer,Your drop off location?,Votre Ville de retour?,Active
+Favorite Places,LBL_FAVORITE_PLACES,consumer,Favorite Places,Lieux préférés,Active
+Recently Visited Places,LBL_RECENTLY_VISITED_PLACES,consumer,Recently Visited Places,Endroits récemment visités,Active
+Tap to select from the map,LBL_TAP_TO_SELECT_FROM_THE_MAP,consumer,Tap to select from the map,Appuyez sur pour sélectionner la carte,Active
+Contact Us,LBL_CONTACT_US,consumer,Contact Us,Nous contacter,Active
+Need Help?,LBL_NEED_HELP,consumer,Need Help?,Besoin d'aide?,Active
+Our customer care team will be in  touch with you within the next  12 hours.,LBL_OUR_CUSTOMER_CARE_TEAM_WILL_BE_IN_ TOUCH_WITH_YOU_WITHIN_THE_NEXT_ 12_HOURS,consumer,Our customer care team will be in  touch with you within the next 12 hours.,Notre équipe de service à la clientèle sera en contact avec vous dans les 12 heures le lendemain.,Active
+Send,LBL_SEND,consumer,Send,Envoyer,Active
+Type your Message here,LBL_TYPE_YOUR_MESSAGE_HERE,consumer,Type your Message here,tapez votre message ici,Active
+Enter Full Name,LBL_ENTER_FULL_NAME,consumer,Enter Full Name,Entrez le nom complet,Active
+Profile,LBL_PROFILE,consumer,Profile,Profil,Active
+Our customer care team will be in  touch with you within the next  12 hours.,LBL_OUR_CUSTOMER_CARE_TEAM_WILL_BE_IN_TOUCH_WITH_YOU_WITHIN_THE_NEXT_12_HOURS,consumer,Our customer care team will be in  touch with you within the next 12 hours.,Notre équipe de service à la clientèle sera en contact avec vous dans les 12 heures le lendemain.,Active
+Please enter message,LBL_PLEASE_ENTER_MESSAGE,consumer,Please enter message,S'il vous plaît entrer un message,Active
+your message submitted successfully,LBL_YOUR_MESSAGE_SUBMITTED_SUCCESSFULLY,consumer,Your message submitted successfully,Votre message envoyé avec succès,Active
+Update,LBL_UPDATE,consumer,Update,Mettre à jour,Active
+OTP Verification,LBL_OTP_VERIFICATION,consumer,OTP Verification,Vérification du Bureau du Procureur,Active
+Invalid OTP,LBL_INVALID_OTP,consumer,Invalid OTP,OTP non valide,Active
+OTP verified successfully,LBL_OTP_VERIFIED_SUCCESSFULLY,consumer,OTP verified successfully,OTP vérifié avec succès,Active
+Help Center,LBL_HELP_CENTER,consumer,Help Center,Centre d'aide,Active
+Browse help topics,LBL_BROWSE_HELP_TOPICS,consumer,Browse help topics,Parcourir les rubriques d'aide,Active
+Apply,LBL_APPLY,consumer,Apply,Appliquer,Active
+Accept a Job,LBL_ACCEPT_A_JOB,admin,Accept a Job,Accepter un emploi,Active
+"Work with your convenience, take the job whenever you need it.",LBL_ACCEPT_A_JOB_DESC,admin,"Work with your convenience,take the job whenever you need it.","Travaillez avec votre commodité, prenez le travail dont vous avez besoin chaque fois.",Active
+Tracking Realtime,LBL_TRACKING_REALTIME,admin,Tracking Realtime,le suivi en temps réel,Active
+know where your customer is currently located with the real-time tracking.,LBL_TRACKING_REALTIME_DESC,admin,know where your customer is currently located with the real-time tracking.,Où est votre savoir client se trouvent actuellement avec le suivi en temps réel.,Active
+Earn Money,LBL_EARN_MONEY,admin,Earn Money,Gagner de l'argent,Active
+Take up the number of jobs and increase your earnings.,LBL_EARN_MONEY_DESC,admin,Take up the number of jobs and increase your earnings.,Prenez le nombre d'emplois et augmenter vos gains.,Active
+Get Started,LBL_GET_STARTED,admin,Get Started,Commencer,Active
+Skip,LBL_SKIP,admin,Skip,Sauter,Active
+Next,LBL_NEXT,admin,Next,Prochain,Active
+Earn more with Cab,LBL_EARN_MORE_WITH_FETCH,admin,Earn more with Cab,Gagnez plus avec Cab,Active
+Login,LBL_LOGIN,admin,Login,S'identifier,Active
+Login with your Registered mobile number,LBL_LOGIN_WITH_YOUR_REGISTERED_MOBILE_NUMBER,admin,Login with your Registered mobile number,Connectez-vous avec votre enregistré numéro de téléphone mobile,Active
+Done,LBL_DONE,admin,Done,terminé,Active
+Your number,LBL_YOUR_NUMBER,admin,Your number,ton numéro,Active
+Please enter mobile number,LBL_PLEASE_ENTER_MOBILE_NUMBER,admin,Please enter mobile number,S'il vous plaît entrer le numéro mobile,Active
+Please enter valid mobile number,LBL_PLEASE_ENTER_VALID_MOBILE_NUMBER,admin,Please enter valid mobile number,S'il vous plaît entrer le numéro de téléphone portable valide,Active
+Personal Verification,PERSONAL_VERIFICATION,admin,Personal Verification,Vérification personnelle,Active
+Please upload required documents.Get verified to start Riding,LBL_PLEASE_UPLOAD_REQUIRED_DOCUMENTS_GET_VERIFIED_TO_START_RIDING,admin,Please upload required documents.Get verified to start Riding,S'il vous plaît télécharger nécessaire pour démarrer documents.Get vérifié Riding,Active
+Upload Front of NRIC,LBL_UPLOAD_FRONT_OF_NRIC,admin,Upload Front of NRIC,Télécharger avant de CIRN,Active
+Upload Back of NRIC,LBL_UPLOAD_BACK_OF_NRIC,admin,Upload Back of NRIC,Réimportez de CIRN,Active
+Upload Profile Picture,LBL_UPLOAD_PROFILE_PICTURE,admin,Upload Profile Picture,Télécharger profil Picture,Active
+Admin Verification,LBL_DRIVER_VERIFICATION,admin,Admin Verification,Vérification pilote,Active
+Please upload required documents Get verified to start Driving,LBL_PLEASE_UPLOAD_REQUIRED_DOCUMENTS_GET_VERIFIED_TO_START_DRIVING,consumer,"Please upload required documents Get verified to start Driving""}",S'il vous plaît télécharger les documents requis vérifiés pour démarrer Get Driving « },Active
+Upload Driving License(Front),LBL_UPLOAD_DRIVING_LICENSE_FRONT,admin,Upload Driving License(Front),Télécharger Permis de conduire (avant),Active
+Upload Driving License (Back),LBL_UPLOAD_DRIVING_LICENSE_BACK,admin,Upload Driving License (Back),Télécharger Permis de conduire (Retour),Active
+Vehicle Details,LBL_VEHICLE_DETAILS,admin,Vehicle Details,Les détails du véhicule,Active
+Please upload required documents.Get verified to start Driving,LBL_PLEASE_UPLOAD_REQUIRED_DOCUMENTS_GET_VERIFIED_TO_START_DRIVING,admin,Please upload required documents.Get verified to start Driving,S'il vous plaît télécharger nécessaire pour démarrer documents.Get vérifié Driving,Active
+Car Category,LBL_CAR_CATEGORY,admin,Car Category,Catégorie de voiture,Active
+Vehicle Number,LBL_VEHICLE_NUMBER,admin,Vehicle Number,Numéro de véhicule,Active
+Upload Vehicle Road Tax,LBL_UPLOAD_VEHICLE_ROAD_TAX,admin,Upload Vehicle Road Tax,Télécharger la taxe des véhicules routiers,Active
+Upload Vehicle photo(Front),LBL_UPLOAD_VEHICLE_PHOTOFRONT,admin,Upload Vehicle photo(Front),Le chargement du véhicule de photo (avant),Active
+Upload Vehicle photo (Rear),LBL_UPLOAD_VEHICLE_PHOTO_REAR,admin,Upload Vehicle photo (Rear),Ajouter véhicule photo (arrière),Active
+Register,LBL_REGISTER,admin,Register,S'inscrire,Active
+First Name,LBL_FIRST_NAME,admin,First Name,Prénom,Active
+Last Name,LBL_LAST_NAME,admin,Last Name,Nom de famille,Active
+Your Email Address,LBL_YOUR_EMAIL_ADDRESS,admin,Your Email Address,Votre adresse email,Active
+Please enter first name,LBLPLEASE_ENTER_FIRST_NAME,admin,Please enter first name,S'il vous plaît entrer le prénom,Active
+Please enter last name,LBL_PLEASE_ENTER_LAST_NAME,admin,Please enter last name,S'il vous plaît entrer nom,Active
+Please enter mobile number,LBL_PLEASE_ENTER_MOBILE_NUMBER,admin,Please enter mobile number,S'il vous plaît entrer le numéro mobile,Active
+Please enter email id,LBL_PLEASE_ENTER_EMAIL_ID,admin,Please enter email id,S'il vous plaît entrer id email,Active
+Please upload your front NRIC photo,LBL_PLEASE_UPLOAD_YOUR_FR0NT_NRIC_PHOTO,admin,Please upload your front NRIC photo,S'il vous plaît télécharger votre photo CIRN avant,Active
+Please upload your back NRIC photo,LBL_PLEASE_UPLOAD_YOUR_BACK_NRIC_PHOTO,admin,Please upload your back NRIC photo,S'il vous plaît télécharger votre dos photo CIRN,Active
+Please upload your profile photo,LBL_PLEASE_UPLOAD_YOUR_PROFILE_PHOTO,admin,Please upload your profile photo,S'il vous plaît télécharger votre photo de profil,Active
+Please upload your admin license fr0nt photo,LBL_PLEASE_UPLOAD_YOUR_DRIVER_LICENSE_FR0NT_PHOTO,admin,Please upload your admin license front photo,S'il vous plaît télécharger votre photo avant de permis de conduire,Active
+Please upload your admin license back photo,LBL_PLEASE_UPLOAD_YOUR_DRIVER_LICENSE_BACK_PHOTO,admin,Please upload your admin license back photo,S'il vous plaît télécharger votre permis de conduire avec photo retour,Active
+Please select Vehicle type,LBL_PLEASE_SELECT_VEHICLE_TYPE,admin,Please select car category,S'il vous plaît choisir une catégorie de voiture,Active
+Please enter vehicle number,LBL_PLEASE_ENTER_VEHICLE_NUMBER,admin,Please enter the vehicle number,S'il vous plaît entrer le numéro de véhicule,Active
+Please upload your vehicle road tax photo,PLEASE_UPLOAD_YOUR_ROAD_TAX_PHOTO,admin,Please upload your vehicle road tax photo,S'il vous plaît télécharger votre photo du véhicule taxe routière,Active
+Please upload your insurance covernote photo,LBL_PLEASE_UPLOAD_YOUR_INSURANCE_COVERNOTE_PHOTO,consumer,Please upload your insurance cover note photo,S'il vous plaît télécharger votre couverture d'assurance note photo,Active
+Please upload your vehicle front photo,LBL_PLEASE_UPLOAD_YOUR_VEHICLE_FRONT_PHOTO,admin,Please upload your vehicle front photo,S'il vous plaît télécharger votre photo avant du véhicule,Active
+Please upload your vehicle rear photo,LBL_PLEASE_UPLOAD_YOUR_VEHICLE_REAR_PHOTO,admin,Please upload your vehicle rear photo,S'il vous plaît télécharger votre photo du véhicule arrière,Active
+Please upload your vehicle left photo,LBL_PLEASE_UPLOAD_YOUR_VEHICLE_LEFT_PHOTO,admin,Please upload your vehicle left photo,S'il vous plaît télécharger votre photo du véhicule gauche,Active
+Please upload your vehicle right photo,LBL_PLEASE_UPLOAD_YOUR_VEHICLE_RIGHT_PHOTO,admin,Please upload your vehicle right photo,S'il vous plaît télécharger votre photo du véhicule droit,Active
+Please upload required documents. Get verified to start Driving,LBL_PLEASE_UPLOAD_REQUIRED_DOCUMENTS_GET_VERIFIED_TO_START_DRIVING,admin,Please upload required documents. Get verified to start Driving,S'il vous plaît télécharger les documents requis. Être vérifié commencer à conduire,Active
+Register,LBL_SIGNUP,admin,Register,S'inscrire,Active
+Almost There!,LBL_ALMOST_THERE,admin,Almost There!,Presque là!,Active
+*Thank you for your interest.,LBL_THANK_YOU_FOR_YOUR_INTEREST,admin,Thank you for registering.,Merci de votre inscription.,Active
+"*Currently your account is reviewing by our team.Once your account will active , we will inform you via email.",LBL_ACCOUNT_PENDING_MESSAGE,admin,Your account is currently being reviewed by our support team. The status of your registration will be sent to your email.,Votre compte est en cours d'examen par notre équipe d'assistance actuellement. L'état de votre inscription vous sera envoyé à votre e-mail.,Active
+Got It,LBL_GOT_IT,admin,Got It,Je l'ai,Active
+Verify Mobile Number,LBL_VERIFY_MOBILE_NUMBER,admin,Verify Mobile Number,Vérifier mobile Nombre,Active
+OTP has been sent to,LBL_OTP_HAS_BEEN_SENT_TO_YOUR,admin,OTP has been sent to,Bureau du Procureur a-été envoyé,Active
+please enter it.,LBL_PLEASE_ENTER_IT,admin,please enter it.,S'il vous plaît entrer.,Active
+Didn’t receive OTP?,LBL_DIDNT_RECEIVE_OTP,admin,Didn’t receive OTP?,N'a pas reçu du Bureau du Procureur?,Active
+Resend code in,LBL_RESEND_CODE_IN,admin,Resend OTP in,Bureau du Procureur en Renvoyer,Active
+Resend Code,LBL_RESEND_CODE,admin,Resend OTP,Bureau du Procureur Renvoyer,Active
+OTP Verification,LBL_OTP_VERIFICATION,admin,OTP Verification,Vérification du Bureau du Procureur,Active
+Enter OTP,LBL_ENTER_OTP,admin,Enter OTP,Entrez OTP,Active
+Enter 4 Digit OTP,LBL_ENTER_4_DIGIT_OTP,admin,Enter 4 Digit OTP,Entrez 4 chiffres OTP,Active
+*Trip finished successfully,LBL_TRIP_FINISHED_SUCCESSFULLY,admin,Trip completed successfully,Voyage terminé avec succès,Active
+OTP verified successfully,LBL_OTP_VERIFIED_SUCCESSFULLY,admin,OTP verified successfully,OTP vérifié avec succès,Active
+Upload Vehicle photo(Left),LBL_UPLOAD_VEHICLE_PHOTOLEFT,admin,Upload Vehicle photo(Left),Ajouter photo du véhicule (gauche),Active
+Upload Vehicle photo (Right),LBL_UPLOAD_VEHICLE_PHOTO_RIGHT,admin,Upload Vehicle photo (Right),Ajouter véhicule photo (à droite),Active
+Upload Insurance Covernote,LBL_UPLOAD_INSURANCE_COVERNOTE,admin,Upload Insurance Cover note,Télécharger Assurance note couverture,Active
+Personal Verification,LBL_PERSONAL_VERIFICATION,admin,Personal Verification,Vérification personnelle,Active
+Please enter valid email id,LBL_PLEASE_ENTER_VALID_EMAIL_ID,admin,Please enter valid email id,S'il vous plaît entrer id email valide,Active
+Please upload your insurance covernote photo,LBL_PLEASE_UPLOAD_YOUR_INSURANCE_COVERNOTE_PHOTO,admin,Please upload your insurance cover note photo,S'il vous plaît télécharger votre couverture d'assurance note photo,Active
+Please turn on internet,MSG_PLEASE_TURN_ON_INTERNET,consumer,Please turn on internet,S'il vous plaît activer Internet,Active
+Internal server error,MSG_INTERNAL_SERVER_ERROR,consumer,Internal server error,Erreur Interne du Serveur,Active
+Resource Not Found,MSG_RESOURCE_NOT_FOUND,consumer,Resource Not Found,Ressource introuvable,Active
+Contact Us,LBL_CONTACT_US,admin,Contact Us,Nous contacter,Active
+Need Help?,LBL_NEED_HELP,admin,Need Help?,Besoin d'aide?,Active
+Our customer care team will be in touch with you within the next 12 hours.,LBL_OUR_CUSTOMER_CARE_TEAM_WILL_BE_IN_ TOUCH_WITH_YOU_WITHIN_THE_NEXT_ 12_HOURS,admin,Our customer care team will be in touch with you within the next 12 hours.,Notre équipe de service à la clientèle sera en contact avec vous dans les 12 heures le lendemain.,Active
+Type your message here,LBL_TYPE_YOUR_MESSAGE_HERE,admin,Type your message here,tapez votre message ici,Active
+Send,LBL_SEND,admin,Send,Envoyer,Active
+Please enter message,LBL_PLEASE_ENTER_MESSAGE,admin,Please enter message,S'il vous plaît entrer un message,Active
+your message submitted successfully,LBL_YOUR_MESSAGE_SUBMITTED_SUCCESSFULLY,admin,Your message submitted successfully,Votre message envoyé avec succès,Active
+No any trips yet!,LBL_NO_ANY_TRIPS_YET,consumer,No any trips yet!,Pas encore des voyages!,Active
+No any scheduled trips yet!,NO_ANY_SCHEDULED_TRIPS_YET,consumer,No any scheduled trips yet!,Non prévu des voyages encore!,Active
+Vehicle Number,LBL_VEHICLE_NUMBER,consumer,Vehicle Number,Numéro de véhicule,Active
+Booking ID,LBL_BOOKING_ID,consumer,Booking ID,réservation ID,Active
+Distance,LBL_DISTANCE,consumer,Distance,Distance,Active
+Time,LBL_TIME,consumer,Time,Temps,Active
+Price,LBL_PRICE,consumer,Price,Prix,Active
+Cancel Ride,LBL_CANCEL_RIDE,consumer,Cancel Ride,annuler tour,Active
+No notification yet!,LBL_NO_NOTIFICATION_YET,consumer,No notification yet!,Pas encore notification!,Active
+Invite friends,LBL_INVITE_FRIENDS,consumer,Invite friends,Inviter des amis,Active
+Invite,LBL_INVITE,consumer,Invite,Inviter,Active
+Add Home,LBL_ADDHOME,consumer,Add Home,Ajouter Accueil,Active
+Add Work,LBL_ADDWORK,consumer,Add Work,Ajouter travail,Active
+Select Vehicle types,LBL_SELECT_VEHICLE_TYPES,admin,Select Vehicle types,Sélectionnez les types de véhicules,Active
+Home,LBL_HOME,consumer,Home,Accueil,Active
+Work,LBL_WORK,consumer,Work,Travail,Active
+Are you sure you want to delete?,LBL_ARE_YOU_SURE_YOU_WANT_TO_DELETE,consumer,Are you sure you want to delete?,Etes-vous sûr que vous voulez supprimer?,Active
+Yes,BTN_YES,consumer,Yes,Et c'est,Active
+No,BTN_NO,consumer,No,ne pas,Active
+Offline,LBL_OFFLINE,admin,Offline,hors ligne,Active
+Time left,LBL_TIME_LEFT,admin,Time left,Temps restant,Active
+Total Fare,LBL_TOTAL_FARE,admin,Total Fare,Prix ​​total,Active
+km,LBL_KM,admin,km,km,Active
+Accept,LBL_ACCEPT,admin,Accept,J'accepte,Active
+Decline,LBL_DECLINE,admin,Decline,déclin,Active
+Pick up,LBL_PICK_UP,admin,Pick up,Ramasser,Active
+Go to Pickup,LBL_GO_TO_PICKUP,admin,Go to Pickup,Aller au ramassage,Active
+Call,LBL_CALL,admin,Call,Appel,Active
+Start Trip,LBL_START_TRIP,admin,Start Trip,Start Trip,Active
+Complete Trip,LBL_COMPLETE_TRIP,admin,Complete Trip,voyage complète,Active
+Cash,LBL_CASH,admin,Cash,En espèces,Active
+Discount,LBL_DISCOUNT,admin,Discount,Remise,Active
+Paid Amount,LBL_PAID_AMOUNT,admin,Paid Amount,Le montant payé,Active
+Confirm Total,LBL_CONFIRM_TOTAL,admin,Confirm Total,Confirmer total,Active
+History,LBL_HISTORY,admin,History,L'histoire,Active
+Booking ID :,LBL_BOOKING_ID,admin,Booking ID :,Réservation ID:,Active
+Distance,LBL_DISTANCE,admin,Distance,Distance,Active
+*Wallet,LBL_WALLET,consumer,E-Wallet,E-Wallet,Active
+History,LBL_HISTORY,consumer,History,L'histoire,Active
+Scheduled,LBL_SCHEDULED,consumer,Scheduled,prévu,Active
+Notifications,LBL_NOTIFICATIONS,consumer,Notifications,notifications,Active
+Settings,LBL_SETTINGS,consumer,Settings,Paramètres,Active
+SOS,LBL_SOS,consumer,SOS,SOS,Active
+Refer a Friend,LBL_REFER_A_FRIEND,consumer,Refer a Friend,Référez un ami,Active
+Copyright 2019 Cab,LBL_COPYRIGHT_FETCH,consumer,Copyright 2020 © XongoLab,Droit d'auteur 2020 © XongoLab,Active
+Your Balance,LBL_YOUR_BALANCE,consumer,Your Balance,votre solde,Active
+Add,LBL_ADD,consumer,Add,Ajouter,Active
+Recents,LBL_RECENTS,consumer,Recents,recents,Active
+My Wallet,LBL_MY_WALLET,consumer,My Wallet,mon portefeuille,Active
+Payment Options,LBL_PAYMENT_OPTIONS,consumer,Payment Options,Options de paiement,Active
+E-Wallet Balance,LBL_WALLET_BALANCE,consumer,E-Wallet Balance,E-Wallet Équilibre,Active
+Selected,LBL_SELECTED,consumer,Selected,choisi,Active
+Select,LBL_SELECT,consumer,Select,Sélectionner,Active
+Credit Card,LBL_CREDIT_CARD,consumer,Credit Card,Carte de crédit,Active
+Add New Card,LBL_ADD_NEW_CARD,consumer,Add New Card,Ajouter une nouvelle carte,Active
+Language,LBL_LANGUAGE,consumer,Language,Langue,Active
+Saved Places,LBL_SAVED_PLACES,consumer,Saved Places,Adresses enregistrées,Active
+Terms & Conditions,LBL_TERMS_AND_CONDITIONS,consumer,Terms \u0026 Conditions,Termes de conditions de u0026,Active
+Privacy Policy,LBL_PRIVACY_POLICY,consumer,Privacy Policy,Politique de confidentialité,Active
+Logout,LBL_LOGOUT,consumer,Logout,Se déconnecter,Active
+Select Language,LBL_SELECT_LANGUAGE,consumer,Select Language,Choisir la langue,Active
+More Places,LBL_MORE_PLACE,consumer,More Places,plus d'endroits,Active
+Add New,LBL_ADD_NEW,consumer,Add New,Ajouter un nouveau,Active
+Notifications,LBL_NOTIFICATION,admin,Notifications,notifications,Active
+Base Fare,LBL_BASE_FARE,consumer,Base Fare,Tarif de base,Active
+Booking Fee,LBL_BOOKING_FEE,consumer,Booking Fee,Frais de réservation,Active
+Per Km,LBL_PER_KM,consumer,Per Km,par Km,Active
+Per Min Fare,LBL_PER_MIN,consumer,Per Min Fare,Par tarif min,Active
+Estimated Surcharges,LBL_ESTIMATED_SURCHARGES,consumer,Estimated Surcharges,Estimation surtaxes,Active
+Additional Toll/Parking charges may apply,LBL_ADDITIONAL_TOLL_CHARGES_NOTE,consumer,Additional Toll/Parking charges may apply,Des frais supplémentaires péage / stationnement peut appliquer,Active
+Seater,LBL_SEATER,consumer,Seater,places,Active
+Options,LBL_OPTION,consumer,Options,options,Active
+Note to admin,LBL_NOTE_TO_DRIVER,consumer,Note to admin,Note au conducteur,Active
+Add Promo Code,LBL_ADD_PROMO_CODE,consumer,Add Promo Code,Ajouter Promo Code,Active
+Enter Promo Code,LBL_ENTER_PROMO_CODE,consumer,Enter Promo Code,Saisir le code promotionnel,Active
+Our customer care team will be in  touch with you within the next  12 hours.,LBL_OUR_CUSTOMER_CARE_TEAM_WILL_BE_IN_TOUCH_WITH_YOU_WITHIN_THE_NEXT_12_HOURS,admin,Our customer care team will be in  touch with you within the next  12 hours.,Notre équipe de service à la clientèle sera en contact avec vous dans les 12 heures le lendemain.,Active
+Package History,LBL_PAYMENT_HISTORY,admin,Package History,histoire paquet,Active
+Promo,LBL_PROMO,consumer,Promo,promo,Active
+Options,LBL_OPTION,consumer,Options,options,Active
+Book,LBL_BOOK,consumer,Book,Livre,Active
+Schedule,LBL_SCHEDULE,consumer,Schedule,Programme,Active
+Pay,LBL_PAY,admin,Pay,Payer,Active
+Enter First Name,LBL_ENTER_FIRST_NAME,admin,Enter First Name,Entrez votre prénom,Active
+Enter Last Name,LBL_ENTER_LAST_NAME,admin,Enter Last Name,Entrer le nom de famille,Active
+Enter Mobile Number,LBL_ENTER_MOBILE_NUMBER,admin,Enter Mobile Number,Entrez numéro de mobile,Active
+Enter Email Address,LBL_ENTER_EMAIL_ADDRESS,admin,Enter Email Address,Entrer l'adresse e-mail,Active
+Select Language,LBL_SELECT_LANGUAGE,admin,Select Language,Choisir la langue,Active
+Document Management,LBL_DOCUMENT_MANAGEMENT,admin,Document Management,Gestion de documents,Active
+Take a Picture,LBL_FROM_CAMERA,consumer,Take a Picture,Prendre une photo,Active
+Emergency Contacts,LBL_EMERGENCY_CONTACT,consumer,Emergency Contacts,Contacts d'urgence,Active
+From Gallery,LBL_FROM_GALLERY,consumer,From Gallery,Galerie de,Active
+From Gallery,LBL_FROM_GALLERY,admin,From Gallery,Galerie de,Active
+Cancel,LBL_CANCEL,consumer,Cancel,Annuler,Active
+Cancel,LBL_CANCEL,admin,Cancel,Annuler,Active
+Please upload your admin license back photo,LBL_PLEASE_UPLOAD_YOUR_DRIVER_LICENSE_BACK_PHOTO,admin,Please upload your admin license back photo,S'il vous plaît télécharger votre permis de conduire avec photo retour,Active
+Wallet,LBL_WALLET,admin,Wallet,Portefeuille,Active
+Package History,LBL_EARNING_HISTORY,admin,Package History,histoire paquet,Active
+Earning History,LBL_EARNING_HISTORY,consumer,Earning History,Histoire de gain,Active
+Subscription,LBL_SUBSCRIPTION,admin,Subscription,Abonnement,Active
+Setting,LBL_SETTING,admin,Setting,Réglage,Active
+Logout,LBL_LOGOUT,admin,Logout,Se déconnecter,Active
+Vehicle Management,LBL_VEHICLE_MANAGEMENT,admin,Vehicle Management,gestion des véhicules,Active
+Language,LBL_LANGUAGE,admin,Language,Langue,Active
+Terms & Conditions,LBL_TERMS_CONDITIONS,admin,Terms \u0026 Conditions,Termes de conditions de u0026,Active
+Privacy Policy,LBL_PRIVACY_POLICY,admin,Privacy Policy,Politique de confidentialité,Active
+Your Balance,LBL_YOUR_BALANCE,admin,Your Balance,votre solde,Active
+Add,LBL_ADD,admin,Add,Ajouter,Active
+Recents,LBL_RECENT,admin,Recents,recents,Active
+RM,LBL_RM,consumer,RM,RM,Active
+RM,LBL_RM,admin,RM,RM,Active
+No any trips yet!,LBL_NO_ANY_TRIPS_YET,admin,No any trips yet!,Pas encore des voyages!,Active
+Your ride request remain time,LBL_YOUR_RIDE_REQUEST_REMAIN_TIME,admin,Your ride request remain time,Votre demande RESTER temps trajet,Active
+Buy,LBL_BUY,admin,Buy,Acheter,Active
+Buy Package,LBL_BUY_PACKAGE,admin,Buy Package,Acheter paquet,Active
+Settings,LBL_SETTINGS,admin,Settings,Paramètres,Active
+Profile,LBL_PROFILE,admin,Profile,Profil,Active
+Receipt,LBL_RECEIPT,admin,Receipt,Le reçu,Active
+My Wallet,LBL_MY_WALLET,admin,My Wallet,mon portefeuille,Active
+Selected,LBL_SELECTED,admin,Selected,choisi,Active
+E-Wallet Balance,LBL_WALLET_BALANCE,admin,E-Wallet Balance,E-Wallet Équilibre,Active
+Credit Card,LBL_CREDIT_CARD,admin,Credit Card,Carte de crédit,Active
+Add New Card,LBL_ADD_NEW_CARD,admin,Add New Card,Ajouter une nouvelle carte,Active
+Select,LBL_SELECT,admin,Select,Sélectionner,Active
+Home,LBL_HOME,admin,Home,Accueil,Active
+Please upload Vehicle Road Tax photo,LBL_PLEASE_UPLOAD_VEHICLE_ROAD_TAX_PHOTO,admin,Please upload Vehicle Road Tax photo,S'il vous plaît télécharger moi taxe routière photo du véhicule,Active
+Please enter Vehicle number,LBL_PLEASE_ENTER_VEHICLE_NUMBER,admin,Please enter Vehicle number,S'il vous plaît entrer le numéro du véhicule,Active
+Please upload insurance covernote photo,LBL_PLEASE_UPLOAD_INSURANCE_COVERNOTE_PHOTO,admin,Please upload insurance covernote photo,S'il vous plaît assurance télécharger photo covernote,Active
+Please upload vehicle front side photo,LBL_PLEASE_UPLOAD_VEHICLE_FRONT_SIDE_PHOTO,admin,Please upload vehicle front side photo,S'il vous plaît véhicule photo télécharger côté avant,Active
+Please upload Vehicle rear side photo,LBL_PLEASE_UPLOAD_VEHICLE_REAR_SIDE_PHOTO,admin,Please upload Vehicle rear side photo,S'il vous plaît télécharger photo latérale arrière du véhicule,Active
+Please upload Vehicle left side photo,LBL_PLEASE_UPLOAD_VEHICLE_LEFT_SIDE_PHOTO,admin,Please upload Vehicle left side photo,S'il vous plaît télécharger le côté gauche du véhicule I photo,Active
+Please upload Vehicle right side photo,LBL_PLEASE_UPLOAD_VEHICLE_RIGHT_SIDE_PHOTO,admin,Please upload Vehicle right side photo,S'il vous plaît télécharger photo I côté droit du véhicule,Active
+ID Number :,LBL_ID_NUMBER,admin,ID Number :,Numéro ID:,Active
+Driving License (Front),LBL_DRIVING_LICENCE_FRONT,admin,Driving License (Front),Permis de conduire (avant),Active
+Driving License (Back),LBL_DRIVING_LICENCE_BACK,admin,Driving License (Back),Permis de conduire (Retour),Active
+NRIC (Front),LBL_NIRC_FRONT,admin,NRIC (Front),NRIC (avant),Active
+NRIC (Back),LBL_NIRC_BACK,admin,NRIC (Back),CIRN (Retour),Active
+Add Vehicle,LBL_ADD_VEHICLE,admin,Add Vehicle,Ajouter véhicule,Active
+HOURS,LBL_HOURS,admin,HOURS,HEURES,Active
+DAYS,LBL_DAYS,admin,DAYS,JOURNÉES,Active
+MINS,LBL_MINS,admin,MINS,MINS,Active
+SECS,LBL_SECS,admin,SECS,SECS,Active
+Delete,LBL_DELETE,consumer,Delete,Supprimer,Active
+Ok,LBL_OK,admin,OK,d'accord,Active
+Cash,LBL_CASH,consumer,Cash,En espèces,Active
+Earned,LBL_EARNED,admin,Today's Earned,Aujourd'hui est Earned,Active
+Date & Times,LBL_DATE_TIMES,admin,Date \u0026 Times,Date \ u0026 temps,Active
+Car Info,LBL_CAR_INFO,admin,Car Info,info voiture,Active
+Customer has cancel the request,LBL_CUSTOMER_HAS_CANCEL_THE_REQUEST,admin,Customer has cancel the request,Customer've annuler la demande,Active
+Online,LBL_ONLINE,admin,Online,En ligne,Active
+Trip cancel successfull,LBL_TRIP_CANCEL_SUCCESSFULL,admin,Trip cancel successfull,Annuler voyage Successfull,Active
+Pull to refresh,LBL_PULL_TO_REFRESH,admin,Pull to refresh,Tirer pour rafraîchir,Active
+Card Number,LBL_CARD_NUMBER,admin,Card Number,Numéro de carte,Active
+Full name as appears on the card,LBL_NAME_AS_APPEARS_ON_THE_CARD,admin,Full name as appears on the card,"Nom complet, tel qu'il apparaît sur la carte",Active
+Save Card,LBL_SAVE_CARD,admin,Save Card,Carte Enregistrer,Active
+Your payment info is stored securely,LBL_YOUR_PAYMENT_INFO_IS_STORED_SECURELY,admin,Your payment info is stored securely,Vos informations de paiement sont stockées en toute sécurité,Active
+MM/YY,LBL_MM_YY,admin,MM/YY,MM / AA,Active
+Inefficent balance in your wallet,LBL_INEFFICENT_BALANCE_IN_YOUR_WALLET,admin,Inefficent balance in your wallet,équilibre inefficent dans votre portefeuille,Active
+Close,LBL_CLOSE,admin,Close,Fermer,Active
+Package purchase successfully,LBL_PACKAGE_PURCHASE_SUCCESSFULLY,admin,Package purchase successfully,Forfait achat avec succès,Active
+USE WALLET,LBL_USE_WALLET,admin,USE WALLET,UTILISATION WALLET,Active
+Internal server error,MSG_INTERNAL_SERVER_ERROR,admin,Internal server error,Erreur Interne du Serveur,Active
+No history available yet!,LBL_NO_HISTORY_AVAILABLE_AT,admin,No history available yet!,Pas d'historique encore disponibles!,Active
+Package History,LBL_PACKAGE_HISTORY,admin,Package History,histoire paquet,Active
+Update,LBL_UPDATE,admin,Update,Mettre à jour,Active
+Profile update successfully,LBL_PROFILE_UPDATE_SUCCESSFULLY,admin,Profile update successfully,mise à jour le profil avec succès,Active
+Yes,BTN_YES,admin,Yes,Et c'est,Active
+No,BTN_NO,admin,No,ne pas,Active
+Are you sure you want to delete?,LBL_ARE_YOU_SURE_YOU_WANT_TO_DELETE,admin,Are you sure you want to delete?,Etes-vous sûr que vous voulez supprimer?,Active
+No notification yet!,LBL_NO_NOTIFICATION_YET,admin,No notification yet!,Pas encore notification!,Active
+Update Vehicle,LBL_UPDATE_VEHICLE,admin,Update Vehicle,Mise à jour du véhicule,Active
+Vehicle added successfully,LBL_VEHICLE_ADDED_SUCCESSFULLY,admin,Vehicle added successfully,Véhicule ajouté avec succès,Active
+Vehicle updated successfully,LBL_VEHICLE_UPDATED_SUCCESSFULLY,admin,Vehicle updated successfully,Véhicule mis à jour avec succès,Active
+ Used Wallet : RM ,LBL_USED_WALLET_RM,admin,Used Wallet : RM,Porte-monnaie occasion: RM,Active
+Mol pay,LBL_MOL_PAY,admin,Mol pay,mol payer,Active
+Add Money,LBL_ADD_MONEY,admin,Add Amount,Ajouter Montant,Active
+Add Balance,LBL_ADD_BALANCE,admin,Add Balance,Ajouter équilibre,Active
+View Transactions,LBL_VIEW_TRANSACTIONS,admin,View Transactions,Voir les transactions,Active
+Profile update sucessfully,LBL_PROFILE_UPDATE_SUCESSFULLY,admin,Profile update sucessfully,Profil mise à jour sucessfully,Active
+Trip completed,LBL_TRIP_COMPLETED,admin,Trip completed,voyage terminé,Active
+Are you sure want to log out?,LBL_ARE_YOU_SURE_WANT_TO_LOG_OUT,admin,Are you sure want to log out?,Êtes-vous sûr de vouloir vous déconnecter?,Active
+Yes,LBL_YES,admin,Yes,Et c'est,Active
+No,LBL_NO,admin,No,ne pas,Active
+Press click back again to exit,LBL_PRESS_CLICK_BACK_AGAIN_TO_EXIT,admin,Press click back again to exit,Appuyez sur la touche à nouveau pour quitter arrière,Active
+Add additional charges,LBL_ADD_ADDITIONAL_CHARGES,admin,Add additional charges,Ajouter des frais supplémentaires,Active
+Add Address,LBL_ADD_ADDRESS,consumer,Add Address,Ajoutez l'adresse,Active
+Select charge type,LBL_SELECT_CHARGE_TYPE,admin,Select charge type,Sélectionner le type de charge,Active
+Press click back again to exit,LBL_PRESS_CLICK_BACK_AGAIN_TO_EXIT,consumer,Press click back again to exit,Appuyez sur la touche à nouveau pour quitter arrière,Active
+No history available at,LBL_NO_HISTORY_AVAILABLE_AT,consumer,No history available at,Pas d'historique disponible,Active
+Card Number,LBL_CARD_NUMBER,consumer,Card Number,Numéro de carte,Active
+Successfully picked up,LBL_SUCCESSFULLY_PICKED_UP,admin,Successfully picked up,Avec succès ramassé,Active
+Full name as appears on the card,LBL_NAME_AS_APPEARS_ON_THE_CARD,consumer,Full name as appears on the card,"Nom complet, tel qu'il apparaît sur la carte",Active
+MM/YY,LBL_MM_YY,consumer,MM/YY,MM / AA,Active
+Save Card,LBL_SAVE_CARD,consumer,Save Card,Carte Enregistrer,Active
+Trip has been started,LBL_SUCCESSFULLY_STARTED_TRIP,admin,Trip has been started,Voyage a été démarré,Active
+Your payment info is stored securely,LBL_YOUR_PAYMENT_INFO_IS_STORED_SECURELY,consumer,Your payment info is stored securely,Vos informations de paiement sont stockées en toute sécurité,Active
+*Popular Questions,LBL_POPULAR_QUESTIONS,consumer,Frequently asked questions,Questions fréquemment posées,Active
+*Save,LBL_SAVE,consumer,Save,sauver,Active
+*Title,LBL_TITLE,consumer,Title,Titre,Active
+*Address,LBL_ADDRESS,consumer,Address,adresse,Active
+*Add Money,LBL_ADD_MONEY,consumer,Add money,Ajouter de l'argent,Active
+*Enter Amount,LBL_ENTER_AMOUNT,consumer,Enter amount,Entrer le montant,Active
+*KM,LBL_KM,consumer,KM,KM,Active
+*Trip Invoice,LBL_TRIP_INVOICE,consumer,Trip invoice,facture de voyage,Active
+*Vehicle Category,LBL_VEHICLE_CATEGORY,consumer,Vehicle category,Catégorie de véhicules,Active
+*Total Fare,LBL_TOTAL_FARE,consumer,Total fare,Prix ​​total,Active
+*Total Distance,LBL_TOTAL_DISTANCE,consumer,Total distance,Distance totale,Active
+*Pull to refresh,LBL_PULL_TO_REFRESH,consumer,Pull to refresh,Tirer pour rafraîchir,Active
+*You have canceled this trip,LBL_YOU_HAVE_CANCELED_THIS_TRIP,consumer,You have canceled this trip,Vous avez annulé voyage,Active
+*Haribhagat not exists,LBL_CONSUMER_NOT_EXISTS,consumer,Customer does not exists,Client n'existe pas,Active
+*Route not found please try other location,LBL_ROUTE_NOT_FOUND_PLEASE_TRY_OTHER_LOCATION,consumer,"Route not found, please try another location.","Route ne se trouve pas, s'il vous plaît essayer un autre endroit.",Active
+*Please select address,LBL_PLEASE_SELECT_ADDRESS,consumer,Please select address,S'il vous plaît sélectionner l'adresse,Active
+*Waiting for admin..,LBL_WAITING_FOR_DRIVER,consumer,Waiting for admin...,En attente de pilote ...,Active
+*Min,LBL_MIN,consumer,Min,min,Active
+*Trip Details,LBL_TRIP_DETAILS,consumer,Trip details,Infos,Active
+*Duplicate user in database,LBL_DUPLICATE_USER_IN_DATABASE,consumer,Duplicate user in database,utilisateur en double dans la base de données,Active
+*Full name as appears on the card,LBL_FULL_NAME_AS_APPEARS_ON_THE_CARD,consumer,Full name as appears on the card,"Nom complet, tel qu'il apparaît sur la carte",Active
+*You payment info is stored securely.,LBL_YOU_PAYMENT_INFO_IS_STORED_SECURELY.,consumer,Your payment information has been stored securely.,Vos informations de paiement a-été stockées de manière sécurisée.,Active
+*Add Balance,LBL_ADD_BALANCE,consumer,Add balance,Ajouter équilibre,Active
+*Please enter amount,LBL_PLEASE_ENTER_AMOUNT,consumer,Please enter amount,S'il vous plaît entrez le montant,Active
+*Title can't be empty,LBL_TITLE_CAN_NOT_BE_EMPTY,consumer,Title cannot be empty,Le titre ne peut être vide,Active
+*Please enter address,LBL_PLEASE_ENTER_ADDRESS,consumer,Please enter address,S'il vous plaît entrer l'adresse,Active
+*Home saved Successfully,LBL_HOME_SAVED_SUCCESSFULLY,consumer,Home address added Successfully,Adresse du domicile joint,Active
+*Work saved Successfully,LBL_WORK_SAVED_SUCCESSFULLY,consumer,Workplace saved successfully,En milieu de travail avec succès sauvé,Active
+*Address Added Successfully,LBL_ADDRESS_ADDED_SUCCESSFULLY,consumer,Address added successfully,Adresse ajouté avec succès,Active
+*Address delete successful,LBL_ADDRESS_DELETE_SUCCESSFUL,consumer,Address deleted successfully,Adresse supprimé avec succès,Active
+*Your Feedback,LBL_YOUR_FEEDBACK,consumer,Your feedback,vos réactions,Active
+*Edited successfully,LBL_EDIT_SUCCESSFUL,consumer,Edited successfully,avec succès édité,Active
+*Please enter your Feedback,LBL_PLEASE_ENTER_YOUR_FEEDBACK,consumer,Please enter your feedback,S'il vous plaît entrer vos commentaires,Active
+*Rating given successfully,LBL_SUCCESSFULLY_GIVEN_RATING,consumer,Rating given successfully,Compte tenu avec succès Note,Active
+*Coupon applied successfully,LBL_COUPNE_APPLIED_SUCCESSFUL,consumer,Coupon applied successfully,Coupon appliqué avec succès,Active
+*Coupon not exists,LBL_COUPNE_NOT_EXISTS,consumer,Invalid coupon,coupon non valide,Active
+*Coupon not active,LBL_COUPNE_NOT_ACTIVE,consumer,Invalid coupon,coupon non valide,Active
+*Coupon expired,LBL_COUPNE_EXPIRED,consumer,Coupon expired,coupon a expiré,Active
+*Profile photo updated successfully,LBL_PROFILE_PHOTO_UPDATED_SUCCESSFULLY,consumer,Profile photo updated successfully,Photo de profil mis à jour avec succès,Active
+*Your package plan expire please buy for next ride,LBL_YOUR_PACKAGE_PLAN_EXPIRE_PLEASE_BUY_FOR_NEXT_RIDE,admin,Your subscription has expired. Please purchase a new plan to accept rides.,Votre abonnement a expiré. S'il vous plaît acheter un nouveau plan pour accepter des promenades.,Active
+*Update profile successfully.,LBL_UPDATE_PROFILE_SUCCESSFULLY,consumer,Profile updated successfully.,Mise à jour du profil réussie.,Active
+*Please select charge type,LBL_PLEASE_SELECT_CHARGE_TYPE,admin,Select charge type,Sélectionner le type de charge,Active
+*Please enter charge amount,LBL_PLEASE_ENTER_CHARGE_AMOUNT,admin,Enter charge amount,Entrez charge de montant,Active
+*added successfully,LBL_ADDED_SUCCESSFULLY,admin,Added successfully,ajouté avec succès,Active
+*Please turn on internet,MSG_PLEASE_TURN_ON_INTERNET,admin,Please turn on internet connection,S'il vous plaît activer une connexion Internet,Active
+*OTP resent successfully,LBL_OTP_RESEND_SUCCESSFULLY,admin,OTP resent successfully,OTP avec succès renvoyé,Active
+*Admin not exists with this mobile number,LBL_DRIVER_NOT_EXISTS_WITH_THIS_MOBILE_NUMBER,admin,Admin account does not exists,compte du pilote n'existe pas,Active
+*Pickup and Dropoff locations are not same,LBL_PICKUP_AND_DROPOFF_LOCATIONS_ARE_NOT_SAME,consumer,Pick up and drop off locations cannot be the same,Prise en charge et des lieux de service ne peuvent pas être les mêmes,Active
+*Your account is not active. Please contact to administrator,LBL_YOUR_ACCOUNT_IS_NOT_ACTIVE_PLEASE_CONTACT_TO_ADMINISTRATOR,admin,Your account is inactive. Please contact our support team.,Votre compte est inactif. S'il vous plaît contacter notre équipe d'assistance.,Active
+*Duplicate user in database,LBL_DUPLICATE_USER_IN_DATABASE,admin,Duplicate user in database,utilisateur en double dans la base de données,Active
+*Please select pickup and dropoff location,LBL_PLEASE_SELECT_PICKUP_AND_DROPOFF_LOCATION,consumer,Please select pick up \u0026 drop off location,S'il vous plaît sélectionner ramasser \ déposer emplacement u0026,Active
+*Toll charges,LBL_TOLL_TAX_CHARGES,consumer,Toll charges,Les frais de péage,Active
+*Parking Charges,LBL_PARKING_CHARGES,consumer,Parking charges,Les frais de stationnement,Active
+*Waiting Charges,LBL_WAITING_CHARGES,consumer,Waiting charges,frais d'attente,Active
+*Promo code,LBL_PROMO_CODE,consumer,Promo code,Code promo,Active
+*Payment Type,LBL_PAYMENT_TYPE,consumer,Payment Type,Type de paiement,Active
+*Discount,LBL_DISCOUNT,consumer,Discount,Remise,Active
+"*Note : Discount apply on trip fare excluding parking charge,tall tax charge,waiting charge etc",NOTE_DISCOUNT_APPLY_ON_TRIP_FARE_EXCLUDING_PARKING_CHARGE_TALL_TAX_CHARGE_WAITING_CHARGE_ETC,consumer,"Note : Discount applied excludes parking charges, tolls, waiting charges and etc.","Note: Remise appliquée exclut les frais de stationnement, les péages, les frais d'attente et etc.",Active
+*Cancel trip?,LBL_CANCEL_TRIP,consumer,Confirm Trip Cancellation?,Confirmer Annulation de voyage?,Active
+*Confirm Trip Cancellation?,LBL_REALLY_YOU_WANT_CANCEL_TRIP,consumer,Confirm Trip Cancellation?,Confirmer Annulation de voyage?,Active
+"*Yes, Cancel",LBL_YES_CANCEL,consumer,"Yes, cancel.","Oui, annuler.",Active
+*OK,LBL_OK,consumer,OK,d'accord,Active
+*Confirm,LBL_CONFIRM,consumer,Confirm,Confirmer,Active
+ *Schedule a Ride,LBL_SCHEDULE_A_RIDE,consumer,Schedule a ride,Planifier un voyage,Active
+*Vehicle Category,LBL_VEHICAL_CATEGORY,consumer,Vehicle Category,Catégorie de véhicule,Active
+*Note Trip Invoice,LBL_NOTE_TRIP_INVOICE,consumer,"Note : Discount applied excludes parking charges, tolls, waiting charges and etc.","Note: Remise appliquée exclut les frais de stationnement, les péages, les frais d'attente et etc.",Active
+*Are you sure want to logout?,LBL_ARE_YOU_SURE_WANT_TO_LOGOUT,consumer,Are you sure want to logout?,Voulez-vous vraiment dconnecter?,Active
+NRIC No. (Malaysians Only),LBL_NRIC_MALAYSIAN_ONLY,consumer,NRIC No. (Malaysians only),Non CIRN (Malaisiens seulement),Active
+*Passport No (For non Malaysian only),LBL_PASSPORT_NO_FOR_NON_MALAYSIAN_ONLY,consumer,Passport No. (For non-Malaysian only),Passeport No. (Pour seulement non-malais),Active
+*NRIC image,LBL_NRIC_IMAGE,consumer,NRIC image,l'image CIRN,Active
+*Edited successfully,LBL_EDIT_SUCCESSFUL,consumer,Edited successfully,avec succès édité,Active
+*I have Referral code(Optional),LBL_I_HAVE_REFERRAL_CODE_OPTIONAL,consumer,I have referral code (Optional),J'ai le code de référence (en option),Active
+*Enter Referral code,LBL_ENTER_REFERRAL_CODE,consumer,Enter referral code,Entrez le code de référence,Active
+*Please enter NRIC number,LBL_PLEASE_ENTER_NRIC_NUMBER,consumer,Please enter NRIC number,S'il vous plaît entrer le numéro CIRN,Active
+*Please enter passport number,LBL_PLEASE_ENTER_PASSPORT_NUMBER,consumer,Please enter passport number,S'il vous plaît entrer le numéro de passeport,Active
+*Please upload NRIC photo,LBL_PLEASE_UPLOAD_NRIC_PHOTO,consumer,Please upload NRIC photo,S'il vous plaît télécharger photo CIRN,Active
+*Please upload passport Photo,LBL_PLEASE_UPLOAD_PASSPORT_PHOTO,consumer,Please upload passport photo,S'il vous plaît photo passeport de téléchargement,Active
+*Profile updated successfully,LBL_PROFILE_UPDATE_SUCESSFULLY,consumer,Profile updated successfully,Mise à jour du profil réussie,Active
+*Yes,LBL_YES,consumer,Yes,Et c'est,Active
+*No,LBL_NO,consumer,No,ne pas,Active
+*Please enter amount,LBL_PLEASE_ENTER_AMOUNT,admin,Please enter amount,S'il vous plaît entrez le montant,Active
+*Please enter amount,LBL_PLEASE_ENTER_AMOUNT,admin,Please enter amount,S'il vous plaît entrez le montant,Active
+*Error occur while getting wallet balance. please try again,LBL_ERROR_OCCURE_WHILE_GETTING_WALLET_BALANCE_PLEASE_TYR_AGAIN,admin,Error occurred getting wallet balance. Please try again.,Une erreur est survenue obtenir l'équilibre de portefeuille. Veuillez réessayer.,Active
+Toll tax charges,LBL_TOLL_TAX_CHARGES,admin,Toll tax charges,charges fiscales des péages,Active
+*Parking Charges,LBL_PARKING_CHARGES,admin,Parking Charges,Frais de stationnement,Active
+*Waiting Charges,LBL_WAITING_CHARGES,admin,Waiting Charges,Les frais d'attente,Active
+*Now not available any job for you,LBL_NOW_NOT_AVAILABLE_ANY_JOB_FOR_YOU,admin,No rides available now,Pas de randos disponible dès maintenant,Active
+*Customer feedback,LBL_CUSTOMER_FEEDBACK,admin,Customer feedback,Commentaires des clients,Active
+*Base Fare,LBL_BASE_FARE,admin,Base Fare,Tarif de base,Active
+*Per KM Fare,LBL_PER_KM_FARE,admin,Per KM Fare,Par KM Fare,Active
+*Additional Charges,LBL_ADDITIONAL_CHARGES,admin,Additional charges,Frais supplémentaires,Active
+*Parking Charge,LBL_PARKING_CHARGE,admin,Parking charge,Frais de stationnement,Active
+*Tall Tax Charge,LBL_TALL_TAX_CHARGE,admin,Tall Tax Charge,Charge fiscale haute,Active
+*No any feedback yet,LBL_NO_ANY_FEEDBACK_YET,admin,No feedback received yet,Aucun commentaire reçu encore,Active
+*Per KM Fare,LBL_PER_KM_FARE,consumer,Per KM Fare,Par KM Fare,Active
+*Additional Charges,LBL_ADDITIONAL_CHARGES,consumer,Additional Charges,Frais supplémentaires,Active
+*Payable Amount,LBL_PAYABLE_AMOUNT,consumer,Payable Amount,Montant payable,Active
+*Payment Done,LBL_PAYMENT_DONE,consumer,Payment Done,Paiement effectué,Active
+*Ride Scheduled,LBL_RIDE_SCHEDULED,consumer,Ride Scheduled,tour prévue,Active
+*Your ride has been scheduled. Admin details will be shared few min before your pickup time,LBL_YOUR_RIDE_HAS_BEEN_SCHEDULED_DRIVER_DETAILS_WILL_BE_SHARED_FEW_MIN_BEFORE_YOUR_PICKUP_TIME,consumer,Your ride has been scheduled. Admin details will be sent to you a few mins before your pickup time,Votre tour a-été prévu. Détails du pilote vous sera envoyé quelques minutes avant votre pick-up,Active
+*Got It,LBL_GOT_IT,consumer,Got it,Je l'ai,Active
+*Rate Us,LBL_RATE_US,consumer,Rate Us,évaluez nous,Active
+*Submit,LBL_SUBMIT,consumer,Submit,soumettre,Active
+*Economy,LBL_ECONOMY,consumer,Economy,Économie,Active
+*0% Commissions,LBL_COMMISSION,admin,0% Commissions,0% Commissions,Active
+*Earn more & drive less,LBL_EARN_MORE_DRIVE_LESS,admin,Earn more \u0026 drive less,Gagner plus \ u0026 lecteur moins,Active
+*Debit or Credit Card,LBL_MOLPAY,consumer,Credit Card,Carte de crédit,Active
+*Insufficient balance in your wallet,LBL_INEFFICENT_BALANCE_IN_YOUR_WALLET,consumer,Insufficient balance in your e-wallet,Solde insuffisant dans votre porte-monnaie électronique,Active
+*Error occur while getting wallet balance. please try again,LBL_ERROR_OCCURE_WHILE_GETTING_WALLET_BALANCE_PLEASE_TYR_AGAIN,consumer,An error occurred while getting wallet balance. Please try again,Une erreur est survenue lors de l'obtention de l'équilibre portefeuille. Veuillez réessayer,Active
+*No one has accept your request please try again,LBL_NO_ONE_HAS_ACCEPT_YOUR_REQUEST_PLEASE_TRY_AGAIN,consumer,No admin has accepted your request. Please try again later,Aucun pilote a accepté votre demande. Veuillez réessayer plus tard,Active
+*Edit Pickup Time,LBL_EDIT_PICKUP_TIME,consumer,Edit Pickup Time,Modifier l'heure de ramassage,Active
+*Complete,LBL_COMPLETE,admin,Completed,Terminé,Active
+*Select Source,LBL_SELECT_SOURCE,admin,Select Source,Sélectionner la source,Active
+*Select Source,LBL_SELECT_SOURCE,consumer,Select Source,Sélectionner la source,Active
+*No history available yet!,LBL_NO_HISTORY_AVAILABLE_YET,consumer,No transactions history,Pas d'historique des transactions,Active
+*Base Fare,LBL_BASE_FARE,consumer,Base Fare,Tarif de base,Active
+*Completed,LBL_COMPLETE,consumer,Completed,Terminé,Active
+*Payable Amount,LBL_PAYBLE_AMOUNT,consumer,Payable Amount,Montant payable,Active
+*Additional charges,LBL_ADDITIONAL_CHARGES,consumer,Additional charges,Frais supplémentaires,Active
+Note,LBL_NOTE,consumer,Note,Remarque,Active
+Tall Tax Charges,LBL_TALL_TAX_CHARGES,consumer,Tall Tax Charges,Charge d'impôts de grande taille,Active
+*Total Earned :,LBL_TOTAL_EARN,admin,Total Earned,Total Gagné,Active
+"Friend joins,friend earn",LBL_INVITE_FRIENDS_NOTE_1,consumer,"Friend joins, friend earn","Ami rejoint, ami gagner",Active
+"Friend ride,you earn",LBL_INVITE_FRIENDS_NOTE_2,consumer,"Friend ride, you earn","tour ami, vous gagnez",Active
+*Saved Places,LBL_SAVED_PLACES,consumer,Saved Places,Adresses enregistrées,Active
+*Add Address,LBL_ADD_ADDRESS,consumer,Add Address,Ajoutez l'adresse,Active
+*Search,LBL_SEARCH,consumer,Search,Chercher,Active
+*Please select address properly,LBL_PLEASE_SELECT_ADDRESS_PROPERLY,consumer,Please select address correctly,S'il vous plaît sélectionner correctement l'adresse,Active
+*Please Enter Address,LBL_PLEASE_ENTER_ADDRESS,consumer,Please Enter Address,S'il vous plaît Entrez votre adresse,Active
+*Please enter note,LBL_PLEASE_ENTER_NOTE,consumer,Please enter note,S'il vous plaît entrer note,Active
+*Please enter coupon code,MSG_PLEASE_ENTER_COUPON_CODE,consumer,Please enter coupon code,S'il vous plaît entrer le code de coupon,Active
+*Select Time,LBL_SELECT_TIME,consumer,Select Time,Sélectionnez Heure,Active
+*Select Date,LBL_SELECT_DATE,consumer,Select Date,Sélectionner une date,Active
+*Your subscription has expired. Please purchase a new plan to accept rides.,LBL_YOUR_PACKAGE_PLANE_EXPIRE_PLEASE_BUY_FOR_NEXT_RIDE,admin,Your subscription has expired. Please purchase a new plan to accept rides.,Votre abonnement a expiré. S'il vous plaît acheter un nouveau plan pour accepter des promenades.,Active
+*Customer Notes,LBL_CUSTOMER_NOTES,admin,Customer Notes,Notes clients,Active
+*Message,LBL_Message,admin,Message,message,Active
+*Admin not exists,LBL_DRIVER_NOT_EXISTS,admin,Account does not exists,Le compte n'existe pas,Active
+*Deactivate,LBL_DEACTIVATE,admin,Deactivate,désactiver,Active
+*Unauthorized access to resource,LBL_UNAUTHORIZED_ACCESS_TO_RESOURCE,admin,Unauthorized Access,L'accès non autorisé,Active
+*Minimum Fare,LBL_MINIMUM_FARE,consumer,Minimum Fare,tarif minimum,Active
+*Status,LBL_STATUS,admin,Status,Statut,Active
+*Payment Type,LBL_PAYMENT_TYPE,admin,Payment type,Type de paiement,Active
+*Please select any language,LBL_PLEASE_SELECT_ANY_LANGUAGE,consumer,Please select a language,S'il vous plaît choisir une langue,Active
+*Please select any language,LBL_PLEASE_SELECT_ANY_LANGUAGE,admin,Please select a language,S'il vous plaît choisir une langue,Active
+*Min KM Fare,LBL_MIN_KM,consumer,Min KM Fare,KM min Fare,Active
+*Minimum Fare,LBL_MINIMUM_FARE,admin,Minimum Fare,tarif minimum,Active
+*Charges added successfully,LBL_CHARGES_ADDED_SUCESSFULLY,admin,Charges added successfully,Frais ajouté avec succès,Active
+Trip has been picked up,LBL_SUCCESSFULLY_PICKEDUP,admin,Trip has been picked up,Voyage a été repris,Active
+*Profile picture uploaded successfully,LBL_PROFILE_PICTURE_UPLOADED_SUCCESSFULLY,consumer,Profile picture uploaded successfully,image profil téléchargé avec succès,Active
+*Profile picture uploaded successfully,LBL_PROFILE_PICTURE_UPLOADED_SUCCESSFULLY,admin,Profile picture uploaded successfully,image profil téléchargé avec succès,Active
+*Trip accepted successfully,LBL_TRIP_ACCEPTED_SUCCESSFULLY,admin,Trip accepted successfully,Voyage avec succès accepté,Active
+*Trip finished successfully,LBL_TRIP_FINISHED_SUCCESSFULLY,admin,Trip completed successfully,Voyage terminé avec succès,Active
+*This trip Already canceled by consumer,LBL_THIS_TRIP_ALREADY_CANCELED_BY_CONSUMER,admin,This trip was cancelled by customer,Ce voyage a été annulé par le client,Active
+*You have insufficient balance please add balance,LBL_YOU_HAVE_INSUFFICIENT_BALANCE_PLEASE_ADD_BALANCE,admin,Insufficient balance,Solde insuffisant,Active
+*Per minimum Km,LBL_PER_MINIMUM_KM,consumer,Per minimum KM,Par minimum KM,Inactive
+*Trip already accepted by another admin,LBL_TRIP_ALREADY_ACCEPTED_BY_ANOTHER_DRIVER,admin,Trip accepted by another admin,Voyage accepté par un autre conducteur,Active
+*Please select payment type,LBL_PLEASE_SELECT_PAYMENT_TYPE,admin,Select payment type,Sélectionner le type de paiement,Active
+*Added by You,ADDED_BY_YOU,consumer,Added by you,Ajouté par vous,Active
+*Deduct from Trip Booking,DEDUCT_FOR_TRIP_BOOKING,consumer,Deducted from trip booking,Déduit de réservation de voyage,Active
+*Added By Referral Code,ADDED_BY_REFERRAL_CODE,consumer,Added by referral code,Ajouté par le code de référence,Active
+*Added By Company,ADDED_BY_COMPANY,consumer,Added by company,Ajouté par la société,Active
+*Deduct By Company,DEDUCT_BY_COMPANY,consumer,Deducted by company,Déduit par la société,Active
+There are not any trip available,LBL_THERE_ARE_NOT_ANY_TRIP_AVAILABLE,consumer,There are not any trip available,Il n'y a pas de voyage disponible,Active
+*Admin not available for this vehicle,LBL_DRIVER_NOT_AVAILABLE_FOR_THIS_VEHICLE,consumer,Drivers are not available for this vehicle,Les conducteurs ne sont pas disponibles pour esta véhicule,Active
+*Duration,LBL_DURATION,consumer,Duration,Durée,Active
+*Unauthorized access to resource,LBL_UNAUTHORIZED_ACCESS_TO_RESOURCE,consumer,Error. Kindly contact our customer care team.,Erreur. Veuillez contacter notre équipe de service à la clientèle.,Active
+*at,LBL_AT,consumer,at,à,Active
+*mins,LBL_MINS,consumer,mins,minutes,Active
+*Your Feedback,LBL_YOUR_FEEDBACK,admin,Your Feedback,vos réactions,Active
+*Address title can not be empty,MSG_ADDRESS_TITLE_CAN_NOT_BE_EMPTY,consumer,Address title cannot be empty,Adresse ne peut pas être le titre vide,Active
+*Address can not be empty,MSG_ADDRESS_CAN_NOT_BE_EMPTY,consumer,Address cannot be empty,Adresse ne peut pas être vide,Active
+*Enter valid address,MSG_ENTER_VALID_ADDRESS,consumer,Enter a valid address,Entrez une adresse valide,Active
+*Address cannot be empty,MSG_ADDRESS_CAN_NOT_BE_EMPTY,consumer,Address cannot be empty,Adresse ne peut pas être vide,Active
+*Enter a valid address,MSG_ENTER_VALID_ADDRESS,consumer,Enter a valid address,Entrez une adresse valide,Active
+*Saved successfully,MSG_SAVED_SUCCESSFULLY,consumer,Saved successfully,enregistré avec succès,Active
+*Address,LBL_ADDRESS,consumer,Address,adresse,Active
+*Title,LBL_TITLE,consumer,Title,Titre,Active
+*Address already exist in our records,MSG_ADDRESS_ALREADY_EXIST_IN_RECORD,consumer,Address already exist in our records,Adresse existe déjà dans nos dossiers,Active
+*Trip cancelled successfully,MSG_TRIP_CANCELLED_SUCCESSFULLY,consumer,Trip cancelled successfully,Voyage annulé avec succès,Active
+Rate Us,LBL_RATE_US,admin,Rate Us,évaluez nous,Active
+*Admin,LBL_DRIVER,consumer,Admin,chauffeur,Active
+*Customer,LBL_CUSTOMER,admin,Customer,Client,Active
+*Rating given successfully,LBL_SUCCESSFULLY_GIVEN_RATING,admin,Rating given successfully ,Compte tenu avec succès Note,Active
+*Submit,LBL_SUBMIT,admin,Submit,soumettre,Active
+*Add Amount,LBL_ADD_AMOUNT,admin,Add Amount,Ajouter Montant,Active
+*Add Amount,LBL_ADD_AMOUNT,consumer,Add Amount,Ajouter Montant,Active
+*Per Min Fare,LBL_PER_MIN,admin,Per Min Fare,Par tarif min,Active
+*Min Fare,LBL_MIN_FARE,admin,Min Fare,min Fare,Active
+*Please select amount,LBL_PLEASE_SELECT_AMOUNT,consumer,Select a top-up value,Sélectionnez une valeur complémentaire,Active
+*Please select amount,LBL_PLEASE_SELECT_AMOUNT,admin,Select top-up amount,Sélectionner le montant du top-up,Active
+*Pay,LBL_PAY,consumer,Pay,Payer,Active
+* Edit Vehicle,LBL_EDIT_VHICLE,admin,Edit vehicle,véhicule Modifier,Active
+*Your account is currently banned.please contact customer care support.,LBL_ACCOUNT_BANNED_MESSAGE,admin,"Your account is banned, please contact our support team.","Votre compte est interdit, S'il vous plaît contacter notre équipe d'assistance.",Active
+*Contact Us,LBL_CONTACT_US,admin,Contact Us,Nous contacter,Active
+* Your account is currently inactive.Please contact our customer support.,LBL_ACCOUNT_INACTIVE_MESSAGE,consumer,"Your account is currently inactive, please contact our customer care team.","Votre compte est actuellement inactif, S'il vous plaît contacter notre équipe de service à la clientèle.",Active
+*Your Payment has been successfully done.,LBL_YOUR_PAYMENT_HAS_BEEN_SUCCESSFULLY_DONE,consumer,Your payment was successful.,Votre paiement a réussi.,Active
+*Added by You,ADDED_BY_YOU,admin,Added by You,Ajouté par vous,Active
+*Added By Company,ADDED_BY_COMPANY,admin,Added By Company,Ajouté par la société,Active
+*Deduct By Company,DEDUCT_BY_COMPANY,admin,Deduct By Company,Déduire Par entreprise,Active
+*Deduct by wallet for package,DEDUCT_BY_WALLET_FOR_PACKAGE,admin,Deduct from e-wallet for subscription plan,Déduire de porte-monnaie électronique pour le plan d'abonnement,Active
+Cash out,LBL_CASH_OUT,admin,Cash out,Cash out,Active
+Bank Name,LBL_BANK_NAME,admin,Bank Name,Nom de banque,Active
+Recipient Name,LBL_RECIPIENT_NAME,admin,Recipient Name,Nom du destinataire,Active
+Account Number,LBL_ACCOUNT_NUMBER,admin,Account Number,Numéro de compte,Active
+Transfer request,LBL_TRANSFER_REQUEST,admin,Transfer request,Demande de transfert,Active
+This amount will be transferred to your bank account within 10 working days.,LBL_THIS_AMOUNT_WILL_BE_TRANSFERRED_TO_YOUR_BANK_ACCOUNT,admin,This amount will be transferred to your bank account within 10 working days.,Ce montant sera transféré à votre compte bancaire dans un délai de 10 jours ouvrables.,Active
+Note:- please note that there will be a $1 charge,LBL_NOTE_PLEASE_NOTE_THAT_THERE_WILL_BE_A_RM_CHARGE,admin,Note:- please note that there will be a $1 charge,Note: - S'IL VOUS PLAÎT NOTE QUE IL Y AURA 1 $ Frais,Active
+Please enter minimum RM2,LBL_PLEASE_ENTER_MINIMUM_RM2,admin,Please enter minimum RM2,S'il vous plaît entrer RM2 minimum,Active
+Invalid amount please check your earn balance,LBL_INVALID_AMOUNT_PLEASE_CHECK_YOUR_WALLET_BALANCE,admin,Invalid amount please check your earn balance,Montant non valide S'il vous plaît vérifier votre solde gagner,Active
+Thank you. Your withdrawal request has been submitted,THANK_YOU_YOUR_WITHDRAWAL_REQUEST_HAS_BEEN_SUBMITTED,admin,Thank you. Your withdrawal request has been submitted,Merci. Votre demande de retrait a-été soumis,Active
+Please fill bank details in profile,LBL_PLEASE_FILL_BANK_DETAILS_IN_PROFILE,admin,Please fill bank details in profile,S'il vous plaît banque de remplissage détails profil,Active
+First Name,LBL_FIRST_NAME,consumer,First Name,Prénom,Active
+Passport Image,LBL_PASSPORT_IMAGE,consumer,Passport Image,Photo Passport,Active
+Invalid OTP,LBL_INVALID_OTP,admin,Invalid OTP,OTP non valide,Active
+Completed,LBL_COMPLETEED,consumer,Completed,Terminé,Active
+No admin available now. Please  try again,MSG_NO_DRIVER_AVAILABLE_NOW_PLEASE__TRY_AGAIN,consumer,No admin available now. Please  try again,Aucun pilote disponible dès maintenant. Veuillez réessayer,Active
+Cancelled,LBL_CANCELLED,consumer,Cancelled,annulé,Active
+Cancelled,LBL_CANCELLED,admin,Cancelled,annulé,Active
+Please enter mobile number,MSG_PLEASE_ENTER_MOBILE_NUMBER,admin,Please enter mobile number,S'il vous plaît entrer le numéro mobile,Active
+Please enter mobile number,MSG_PLEASE_ENTER_MOBILE_NUMBER,consumer,Please enter mobile number,S'il vous plaît entrer le numéro mobile,Active
+Send OTP,LBL_SEND_OTP,consumer,Send OTP,Envoyer OTP,Active
+Send OTP,LBL_SEND_OTP,admin,Send OTP,Envoyer OTP,Active
+Verify OTP,LBL_VERIFY_OTP,consumer,Verify OTP,vérifier OTP,Active
+Verify OTP,LBL_VERIFY_OTP,admin,Verify OTP,vérifier OTP,Active
+The 4 digit verification code sent to,LBL_THE_4_DIGIT_VERIFICATION_CODE_SENT_TO,admin,The 4 digit verification code sent to,Le code de vérification à 4 chiffres envoyé à,Active
+The 4 digit verification code sent to,LBL_THE_4_DIGIT_VERIFICATION_CODE_SENT_TO,consumer,The 4 digit verification code sent to,Le code de vérification à 4 chiffres envoyé à,Active
+Please enter valid OTP,LBL_ENTER_VALID_OTP,admin,Please enter valid OTP,S'il vous plaît entrer OTP valide,Active
+Please enter valid OTP,LBL_ENTER_VALID_OTP,consumer,Please enter valid OTP,S'il vous plaît entrer OTP valide,Active
+Please enter OTP,LBL_PLEASE_ENTER_OTP,consumer,Please enter OTP,S'il vous plaît entrer OTP,Active
+Please enter OTP,LBL_PLEASE_ENTER_OTP,admin,Please enter OTP,S'il vous plaît entrer OTP,Active
+Enter Mobile Number,LBL_ENTER_MOBILE_NUMBER,consumer,Enter Mobile Number,Entrez numéro de mobile,Active
+Mobile number already exist,MSG_MOBILE_NUMBER_ALREADY_EXIST,consumer,Mobile number already exist,numéro de téléphone mobile Existe déjà,Active
+Mobile number already exist,MSG_MOBILE_NUMBER_ALREADY_EXIST,admin,Mobile number already exist,numéro de téléphone mobile Existe déjà,Active
+Please try again later,MSG_PLEASE_TRY_AGAIN_LATER,consumer,Please try again later,Veuillez réessayer plus tard,Active
+Please try again later,MSG_PLEASE_TRY_AGAIN_LATER,admin,Please try again later,Veuillez réessayer plus tard,Active
+Mobile number verified sucessfully,MSG_MOBILE_NUMBER_VERIFIED_SUCCESSFULLY,consumer,Mobile number verified sucessfully,numéro de téléphone mobile vérifié sucessfully,Active
+Mobile number verified sucessfully,MSG_MOBILE_NUMBER_VERIFIED_SUCCESSFULLY,admin,Mobile number verified sucessfully,numéro de téléphone mobile vérifié sucessfully,Active
+Invalid OTP,MSG_INVALID_OTP,consumer,Invalid OTP,OTP non valide,Active
+Invalid OTP,MSG_INVALID_OTP,admin,Invalid OTP,OTP non valide,Active
+Completed,LBL_COMPLETEED,admin,Completed,Terminé,Active
+Driving Licence Expiry date,LBL_DRIVING_LICENCE_EXPIRY_DATE,consumer,Driving Licence Expiry date,Permis de conduire Date d'expiration,Active
+Driving Licence Expiry date,LBL_DRIVING_LICENCE_EXPIRY_DATE,admin,Driving Licence Expiry date,Permis de conduire Date d'expiration,Active
+Please select driving licence expiry date,MSG_PLEASE_SELECT_DRIVING_LICENCE_EXPIRY_DATE,consumer,Please select driving licence expiry date,S'il vous plaît choisir le permis de conduire date d'expiration,Active
+Please select driving licence expiry date,MSG_PLEASE_SELECT_DRIVING_LICENCE_EXPIRY_DATE,admin,Please select driving licence expiry date,S'il vous plaît choisir le permis de conduire date d'expiration,Active
+Brand & Model,LBL_BRAND_AND_MODEL,consumer,Brand \u0026 Model,Marque \ Model u0026,Active
+Brand & Model,LBL_BRAND_AND_MODEL,admin,Brand \u0026 Model,Marque \ Model u0026,Active
+Please enter brand & model,MSG_PLEASE_ENTER_BRAND_AND_MODEL,consumer,Please enter brand \u0026 model,S'il vous plaît entrer la marque \ modèle u0026,Active
+Please enter brand & model,MSG_PLEASE_ENTER_BRAND_AND_MODEL,admin,Please enter brand \u0026 model,S'il vous plaît entrer la marque \ modèle u0026,Active
+Please agree to out Terms & Conditions and Privacy Policy.,LBL_AGREE_TERMSAND_CONDITION,consumer,Please agree to out Terms \u0026 Conditions and Privacy Policy.,S'il vous plaît accepter des Conditions \ Conditions et Politique de u0026 confidentialité.,Active
+Please agree to out Terms & Conditions and Privacy Policy.,LBL_AGREE_TERMSAND_CONDITION,admin,Please agree to out Terms \u0026 Conditions and Privacy Policy.,S'il vous plaît accepter des Conditions \ Conditions et Politique de u0026 confidentialité.,Active
+Terms & Conditions,LBL_TERMS_AND_CONDITIONS,admin,Terms \u0026 Conditions,Termes de conditions de u0026,Active
+*Enter Amount,LBL_ENTER_AMOUNT,admin,Enter Amount,Entrer le montant,Active
+Date,LBL_DATE,admin,Date,Date,Active
+Emergency Contacts,LBL_EMERGENCY_CONTACT,consumer,Emergency Contacts,Contacts d'urgence,Active
+Cab sents an SMS with your ride details to Emergency contacts when you tap on the call button during trip.,LBL_EMERGENCY_CONTACT_STRING,consumer,Cab sents an SMS with your ride details to Emergency contacts when you tap on the call button during trip.,Cab SENTS un SMS avec votre trajet pour les détails des contacts d'urgence Lorsque vous tapez sur le bouton d'appel pendant le voyage.,Active
+Add Contact,LBL_ADD_CONTACT,consumer,Add Contact,Ajouter le contact,Active
+Vehicle removed sucessfully,MSG_VEHICLE_REMOVED_SUCESSFULLY,admin,Vehicle removed sucessfully,Véhicule éliminé avec succès,Active
+I Agree to the,LBL_I_AGREE_TO_THE,consumer,I Agree to the,Je suis d'accord avec le,Active
+I Agree to the,LBL_I_AGREE_TO_THE,admin,I Agree to the,Je suis d'accord avec le,Active
+Mobile number alredy exist,MSG_MOBILE_NUMBER_ALREADY_EXIST,consumer,Mobile number alredy exist,numéro de téléphone mobile exist alredy,Active
+Take a Picture,LBL_FROM_CAMERA,admin,Take a Picture,Prendre une photo,Active
+Bank Detail,LBL_BANK_DETAIL,admin,Bank Detail,Détail de la Banque,Active
+Please Enter Full Name,LBL_PLEASE_ENTER_FULL_NAME,consumer,Please Enter Full Name,S'il vous plaît Entrez le nom complet,Active
+Invalid referral code,MSG_INVALID_REFERRAL_CODE,consumer,Invalid referral code,Code de référence non valide,Active
+Cashout History,LBL_CASH_OUT_HISTORY,admin,Cashout History,encaissement Histoire,Active
+Remaining Cashout Amount,LBL_REMAINING_CASHOUT_AMOUNT,admin,Remaining Cashout Amount,Montant restant Cashout,Active
+Paid,LBL_PAID,admin,Paid,Payé,Active
+Unpaid,LBL_UNPAID,admin,Unpaid,non payé,Active
+Rejected,LBL_REJECTED,admin,Rejected,Rejeté,Active
+Cash Out History,LBL_CASH_OUT_HISTORY,admin,Cash Out History,Cash Out Histoire,Active
+No data to show,LBL_NO_DATA_TO_SHOW,admin,No data to show,Aucune donnée à émission,Active
+No History Available Yet,MSG_NO_HISTORY_AVAILABLE_YET,consumer,No History Available Yet,Histoire Pas encore disponible,Active
+Below Fields are Optional,LBL_BELOW_FIELDS_ARE_OPTIONAL,consumer,Below Fields are Optional,Ci-dessous sont des champs,Active
+Please enter note,MSG_ENTER_NOTE,consumer,Please enter note,S'il vous plaît entrer note,Active
+Wallet history not available,MSG_WALLET_HISTORY_NOT_AVAILABLE,consumer,Wallet history not available,Historique du portefeuille non disponible,Active
+Favourite Place,LBL_FAVOURITE_PLACE,consumer,Favourite Place,lieu favori,Active
